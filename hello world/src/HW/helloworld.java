@@ -8,7 +8,11 @@ public class helloworld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.println("hjkim");
+
 		System.out.println("컴퓨터 소프트웨어 공학과");
+
+		System.out.println("20173203");
+
 	}
 
 }
